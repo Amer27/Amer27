@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Amer Ismail 👋
 
-<!--
-**Amer27/Amer27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations & Maintenance Engineer based in Egypt, working on industrial
+systems, SCADA/PLC environments and telecom network infrastructure
+(Ericsson MINI-LINK), with 10+ years of hands-on field experience.
 
-Here are some ideas to get you started:
+Currently teaching myself applied machine learning and Flutter, building
+in public:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **[AmerIsmailAI](https://github.com/Amer27/AmerIsmailAI)** — predictive
+  maintenance and anomaly detection on industrial sensor data
+  (Python, scikit-learn, synthetic data)
+- 📱 **[naqeeli](https://github.com/Amer27/naqeeli)** — a Flutter app for
+  price comparison in Egyptian stores (work in progress)
+
+📫 Reach me: eng_3amer2012@yahoo.com
